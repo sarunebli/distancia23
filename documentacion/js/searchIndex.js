@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\calcularPerimetroRectangulo\u0028\u0029",
+            "name": "calcularPerimetroRectangulo",
+            "summary": "Esta\u0020funci\u00F3n\u0020calcula\u0020el\u0020per\u00EDmetro\u0020de\u0020un\u0020rect\u00E1ngulo.",
+            "url": "namespaces/default.html#function_calcularPerimetroRectangulo"
+        },                {
+            "fqsen": "\\calcularIMC\u0028\u0029",
+            "name": "calcularIMC",
+            "summary": "Esta\u0020funci\u00F3n\u0020calcula\u0020el\u0020\u00EDndice\u0020de\u0020masa\u0020corporal\u0020\u0028IMC\u0029.",
+            "url": "namespaces/default.html#function_calcularIMC"
+        },                {
+            "fqsen": "\\Producto",
+            "name": "Producto",
+            "summary": "Clase\u0020que\u0020representa\u0020un\u0020producto.",
+            "url": "classes/Producto.html"
+        },                {
+            "fqsen": "\\Producto\u003A\u003AgetCod\u0028\u0029",
+            "name": "getCod",
+            "summary": "Este\u0020m\u00E9todo\u0020obtiene\u0020el\u0020c\u00F3digo\u0020del\u0020producto.",
+            "url": "classes/Producto.html#method_getCod"
+        },                {
+            "fqsen": "\\Producto\u003A\u003AsetCod\u0028\u0029",
+            "name": "setCod",
+            "summary": "Este\u0020m\u00E9todo\u0020establece\u0020el\u0020c\u00F3digo\u0020del\u0020producto.",
+            "url": "classes/Producto.html#method_setCod"
+        },                {
+            "fqsen": "\\Producto\u003A\u003Acontar\u0028\u0029",
+            "name": "contar",
+            "summary": "Este\u0020m\u00E9todo\u0020est\u00E1tico\u0020obtiene\u0020un\u0020recuento\u0020de\u0020todos\u0020los\u0020productos\u0020existentes\u0020en\u0020la\u0020base\u0020de\u0020datos.",
+            "url": "classes/Producto.html#method_contar"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024cod",
+            "name": "cod",
+            "summary": "C\u00F3digo\u0020del\u0020producto.",
+            "url": "classes/Producto.html#property_cod"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024desc",
+            "name": "desc",
+            "summary": "Descripci\u00F3n\u0020del\u0020producto.",
+            "url": "classes/Producto.html#property_desc"
+        },                {
+            "fqsen": "\\Producto\u003A\u003A\u0024precio",
+            "name": "precio",
+            "summary": "Precio\u0020del\u0020producto.",
+            "url": "classes/Producto.html#property_precio"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
