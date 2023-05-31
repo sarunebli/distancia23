@@ -3,7 +3,7 @@
  * Clase que representa un producto.
  * 
  * @author Sarune Blinkaite
- * @version 1.0
+ * @version 1.1
  */
 class Producto {
 

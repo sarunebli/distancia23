@@ -3,7 +3,7 @@
  * Este script tiene definidas dos funciones que calculan el perímetro de un rectangulo y el índice de masa corporal de una persona.
  * 
  * @author Sarune Blinkaite
- * @version 1.0
+ * @version 1.1
  * @copyright (c) 2023, Sarune Blinkaite
  */
 
